@@ -73,6 +73,8 @@ jmeter -n -t webstaurant_test.jmx -l results.jtl -e -o report
 report/index.html
 ```
 
+Note: Delete the existing report folder and results.jtl from the project directory before running again.
+
 ---
 
 ## Project Structure
