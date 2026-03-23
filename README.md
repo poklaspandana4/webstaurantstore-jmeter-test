@@ -59,7 +59,7 @@ This indicates that the outlet product pages can efficiently handle steady low-v
 
 ## How to Run
 
-1. Install Apache JMeter
+1. Install Apache JMeter (Use Java 17 to run this test, as newer Java versions may cause issues with Groovy scripts in JMeter)
 2. Open command prompt / terminal
 3. Navigate to the project directory
 4. Run the following command:
