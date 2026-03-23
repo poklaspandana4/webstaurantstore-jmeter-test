@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 75,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 416.4266666666665,
+    "medianResTime" : 314.0,
+    "minResTime" : 173.0,
+    "maxResTime" : 2632.0,
+    "pct1ResTime" : 677.6000000000001,
+    "pct2ResTime" : 770.4000000000001,
+    "pct3ResTime" : 2632.0,
+    "throughput" : 0.08439464285312406,
+    "receivedKBytesPerSec" : 30.326586345003047,
+    "sentKBytesPerSec" : 0.012781173060217265
+  },
+  "Outlet Listing Page" : {
+    "transaction" : "Outlet Listing Page",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1007.0,
+    "medianResTime" : 1007.0,
+    "minResTime" : 1007.0,
+    "maxResTime" : 1007.0,
+    "pct1ResTime" : 1007.0,
+    "pct2ResTime" : 1007.0,
+    "pct3ResTime" : 1007.0,
+    "throughput" : 0.9930486593843098,
+    "receivedKBytesPerSec" : 1787.8784058465742,
+    "sentKBytesPerSec" : 0.13382882323733863
+  },
+  "Random Product Page" : {
+    "transaction" : "Random Product Page",
+    "sampleCount" : 74,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 408.4459459459459,
+    "medianResTime" : 310.0,
+    "minResTime" : 173.0,
+    "maxResTime" : 2632.0,
+    "pct1ResTime" : 643.0,
+    "pct2ResTime" : 746.0,
+    "pct3ResTime" : 2632.0,
+    "throughput" : 0.08440714814481073,
+    "receivedKBytesPerSec" : 28.687363738418256,
+    "sentKBytesPerSec" : 0.012802092399022247
+  }
+}
